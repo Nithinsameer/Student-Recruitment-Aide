@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589456800 source:e:\sameer\code blocks\ada 7.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
